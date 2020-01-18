@@ -1,6 +1,6 @@
 module.exports = {
   languages: {
-    supportingRoutines: ["en", "it", "nl", "de", "ja", "ko", "es", "fr"],
+    supportingRoutines: ["en", "it", "nl", "no", "de", "ja", "ko", "es", "fr"],
     comingSoon: ["ja", "pt"],
     available: [
       { name: "Dansk", code: "da" },
@@ -9,6 +9,7 @@ module.exports = {
       { name: "Español", code: "es" },
       { name: "Français", code: "fr" },
       { name: "Italiano", code: "it" },
+      { name: "Norsk", code: "no" },
       { name: "Polski", code: "pl" },
       { name: "Português", code: "pt" },
       { name: "Nederlands", code: "nl" },
